@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+#id{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.poster{
+    width: 450px;
+    border: solid whitesmoke;
+}
+
+h1{
+    font-family: 'Bungee Spice', cursive;
+}
+
+p{
+    font-size: 25px;
+    color: azure;
+    font-family: 'Caveat', cursive;
+}
